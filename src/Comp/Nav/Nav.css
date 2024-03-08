@@ -1,0 +1,10 @@
+.navbar{
+    background-color: #0e1317;
+    padding: 10px 20px;
+}
+.nav-items{
+    justify-content: center;
+}
+.navbar-brand>img{
+    width: 50%;
+}

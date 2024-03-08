@@ -1,0 +1,29 @@
+.herdre{
+    text-align: center;
+    padding: 10px 30px;
+    background-color: #090c0f;
+}
+.herder-info{
+    justify-content: space-between;
+    display: flex;
+}
+.herder-text>h1{
+    font-size: 1rem;
+    color: #fff;
+}
+.herder-text>h1>span{
+    color: #b99272;
+}
+.herder-location>h1{
+    font-size: 1rem;
+    color: #fff;
+}
+.herder-location>h1>span{
+    color: #b99272;
+}
+
+.her-soci-ic{
+    font-size: .9rem;
+    margin: 0 .5rem;
+color: #ffffffb0;
+}
